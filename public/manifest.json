@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Time Master",
+    "version": "0.0.1",
+    "description": "A simple time management extension",
+    "action": {
+      "default_popup": "index.html"
+    },
+    "permissions": []
+  }
